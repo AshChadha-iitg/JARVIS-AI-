@@ -1,2 +1,2 @@
 # JARVIS-AI-
-A python based AI desktop assistant
+A beginner friendly python based AI desktop assistant
